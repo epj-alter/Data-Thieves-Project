@@ -9,3 +9,7 @@
 # Project status
 
 # Resources
+
+## NY Times
+
+https://www.nytimes.com/books/best-sellers/
