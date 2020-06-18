@@ -12,4 +12,9 @@
 
 ## NY Times
 
-https://www.nytimes.com/books/best-sellers/
+- https://www.nytimes.com/books/best-sellers/
+
+## Goodreads
+
+- https://www.kaggle.com/bahramjannesarr/goodreads-books-dataset?
+  _Approximately 10,000,000 books are available on the site's archives, and these datasets are collecting from them, these datasets are updated every 2 days._
