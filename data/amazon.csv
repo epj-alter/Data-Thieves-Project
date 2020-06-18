@@ -1,51 +1,51 @@
-rank,title,author,price,rating,reviews
-1,The Room Where It Happened: A White House Memoir,John Bolton,19.50,,
-2,"I'm Your Emotional Support Animal: Navigating Our All Woke, No Joke Culture",Adam Carolla,25.20,4.8,7
-3,How to Be an Antiracist,Ibram X. Kendi,14.79,4.7,550
-4,White Fragility: Why It's So Hard for White People to Talk About Racism,Robin DiAngelo,10.90,4.3,"1,897"
-5,Too Much and Never Enough: How My Family Created the World’s Most Dangerous Man,Mary L. Trump Ph.D.,25.20,,
-6,Stamped from the Beginning: The Definitive History of Racist Ideas in America (National Book Award Winner),Ibram X. Kendi,12.68,4.7,645
-7,So You Want to Talk About Race,Ijeoma Oluo,11.56,4.7,552
-8,Countdown 1945: The Extraordinary Story of the Atomic Bomb and the 116 Days That Changed the World,Chris Wallace,18.00,4.2,59
-9,Where the Crawdads Sing,Delia Owens,9.59,4.8,"50,160"
-10,Deacon King Kong: A Novel,James McBride,18.99,4.6,213
-11,"I Love You, Daddy",Jilliam Harker,4.99,4.8,"2,092"
-12,The Color of Law: A Forgotten History of How Our Government Segregated America,Richard Rothstein,9.99,4.8,904
-13,The Ballad of Songbirds and Snakes (A Hunger Games Novel),Suzanne Collins,16.79,4.4,"1,407"
-14,Skinnytaste Meal Prep: Healthy Make-Ahead Meals and Freezer Recipes to Simplify Your Life: A Cookbook,Gina Homolka,22.99,,
-15,Untamed,Glennon Doyle,16.80,4.6,"2,280"
-16,If Animals Kissed Good Night,Ann Whitford Paul,4.79,4.8,"9,620"
-17,Just Me and My Dad (Little Critter),Mercer Mayer,3.88,4.8,"2,631"
-18,"My First Learn to Write Workbook: Practice for Kids with Pen Control, Line Tracing, Letters, and More! (Kids coloring activity books)",Crystal Radke,6.26,4.8,"3,359"
-19,Becoming,Michelle Obama,11.89,4.7,"35,321"
-20,Why Are All the Black Kids Sitting Together in the Cafeteria?,Beverly Daniel Tatum,11.39,4.8,303
-21,"School Zone - Big Preschool Workbook - Ages 4 and Up, Colors, Shapes, Numbers 1-10, Alphabet, Pre-Writing, Pre-Reading, Phonics, and More (School Zone Big Workbook Series)",School Zone,6.69,4.8,"7,106"
-22,"We're Different, We're the Same (Sesame Street) (Pictureback(R))",Bobbi Kates,4.99,4.9,415
-23,The Very Hungry Caterpillar,Eric Carle,5.76,4.8,"9,574"
-24,"The Splendid and the Vile: A Saga of Churchill, Family, and Defiance During the Blitz",Erik Larson,19.20,4.6,"1,429"
-25,28 Summers,Elin Hilderbrand,17.60,4.4,7
-26,Just Mercy: A Story of Justice and Redemption,Bryan Stevenson,7.88,4.8,"5,849"
-27,Little Fires Everywhere: A Novel,Celeste Ng,10.20,4.4,"10,827"
-28,Between the World and Me,Ta-Nehisi Coates,15.48,4.6,"5,631"
-29,Burn After Writing,Sharon Jones,8.40,4.7,"2,216"
-30,American Dirt (Oprah's Book Club): A Novel,Jeanine Cummins,16.79,4.5,"3,747"
-31,The Impostors: How Republicans Quit Governing and Seized American Politics,Steve Benen,26.09,5.0,3
-32,I Love Dad with The Very Hungry Caterpillar (The World of Eric Carle),Eric Carle,7.43,4.8,676
-33,Human Body Activity Book for Kids: Hands-On Fun for Grades K-3,Ph.D.,5.39,4.7,"1,292"
-34,"Fast. Feast. Repeat.: The Comprehensive Guide to Delay, Don't Deny® Intermittent Fasting--Including the 28-Day FAST Start",Gin Stephens,15.29,5.0,10
-35,Then She Was Gone: A Novel,Lisa Jewell,8.79,4.5,"6,078"
-36,"Medical Medium Cleanse to Heal: Healing Plans for Sufferers of Anxiety, Depression, Acne, Eczema, Lyme, Gut Problems, Brain Fog, Weight Issues, Migraines, Bloating, Vertigo, Psoriasis, Cys",Anthony William,20.99,4.6,382
-37,Live Free Or Die: America (and the World) on the Brink,Sean Hannity,21.49,,
-38,"101 So Bad, They're Good Dad Jokes",Elias Hill,5.99,4.4,"2,351"
-39,The Vanishing Half: A Novel,Brit Bennett,16.81,4.6,75
-40,Your Baby's First Word Will Be DADA,Jimmy Fallon,5.00,4.4,"3,506"
-41,Waiting Is Not Easy! (An Elephant and Piggie Book),Mo Willems,5.24,4.8,"2,361"
-42,Percy Jackson and the Olympians 5 Book Paperback Boxed Set (new covers w/poster) (Percy Jackson & the Olympians),Rick Riordan,21.00,4.8,"5,151"
-43,"Brown Bear, Brown Bear, What Do You See?",Bill Martin Jr.,5.67,4.9,"7,458"
-44,Are You My Mother ?,P.D. Eastman,3.82,4.7,"2,856"
-45,Camino Winds,John Grisham,17.37,4.1,"1,309"
-46,Giraffes Can't Dance,Giles Andreae,5.00,4.8,"7,575"
-47,The Four Agreements: A Practical Guide to Personal Freedom (A Toltec Wisdom Book),Don Miguel Ruiz,6.48,4.6,"11,559"
-48,Hop on Pop  (I Can Read It All By Myself),Dr. Seuss,3.82,4.8,"1,219"
-49,The Art of Her Deal: The Untold Story of Melania Trump,Mary Jordan,18.52,3.3,8
-50,The Guest List: A Novel,Lucy Foley,16.79,4.2,227
+rank,title,author,ratings,reviews,price
+1,The Room Where It Happened: A White House Memoir,John Bolton,0,0,19.50
+2,Too Much And Never Enough: How My Family Created The World’S Most Dangerous Man,Mary L. Trump Ph.D.,0,0,25.20
+3,How To Be An Antiracist,Ibram X. Kendi,4.7,567,14.79
+4,White Fragility: Why It'S So Hard For White People To Talk About Racism,Robin DiAngelo,4.3,1916,11.35
+5,Stamped From The Beginning: The Definitive History Of Racist Ideas In America (National Book Award Winner),Ibram X. Kendi,4.7,649,12.16
+6,So You Want To Talk About Race,Ijeoma Oluo,4.7,560,11.36
+7,Countdown 1945: The Extraordinary Story Of The Atomic Bomb And The 116 Days That Changed The World,Chris Wallace,4.2,72,18.00
+8,Where The Crawdads Sing,Delia Owens,4.7,50243,9.59
+9,"I Love You, Daddy",Jilliam Harker,4.8,2095,4.88
+10,"I'M Your Emotional Support Animal: Navigating Our All Woke, No Joke Culture",Adam Carolla,4.3,15,25.20
+11,The Color Of Law: A Forgotten History Of How Our Government Segregated America,Richard Rothstein,4.8,908,9.99
+12,The Ballad Of Songbirds And Snakes (A Hunger Games Novel),Suzanne Collins,4.4,1454,16.79
+13,If Animals Kissed Good Night,Ann Whitford Paul,4.8,6214,4.79
+14,Untamed,Glennon Doyle,4.6,2301,16.80
+15,Just Me And My Dad (Little Critter),Mercer Mayer,4.8,2640,3.99
+16,Becoming,Michelle Obama,4.7,35376,11.89
+17,"My First Learn To Write Workbook: Practice For Kids With Pen Control, Line Tracing, Letters, And More! (Kids Coloring Activity Books)",Crystal Radke,4.8,3390,6.56
+18,"We'Re Different, We'Re The Same (Sesame Street) (Pictureback(R))",Bobbi Kates,4.9,420,4.99
+19,Just Mercy: A Story Of Justice And Redemption,Bryan Stevenson,4.8,5857,7.88
+20,"School Zone - Big Preschool Workbook - Ages 4 And Up, Colors, Shapes, Numbers 1-10, Alphabet, Pre-Writing, Pre-Reading, Phonics, And More (School Zone Big Workbook Series)",School Zone,4.8,7131,6.69
+21,Why Are All The Black Kids Sitting Together In The Cafeteria?,Beverly Daniel Tatum,4.8,307,11.39
+22,"The Splendid And The Vile: A Saga Of Churchill, Family, And Defiance During The Blitz",Erik Larson,4.6,1445,19.20
+23,The Very Hungry Caterpillar,Eric Carle,4.8,9593,5.76
+24,Between The World And Me,Ta-Nehisi Coates,4.6,5639,13.11
+25,Deacon King Kong: A Novel,James McBride,4.6,214,18.99
+26,Skinnytaste Meal Prep: Healthy Make-Ahead Meals And Freezer Recipes To Simplify Your Life: A Cookbook,Gina Homolka,0,0,22.99
+27,28 Summers,Elin Hilderbrand,4.1,18,17.60
+28,Little Fires Everywhere: A Novel,Celeste Ng,4.4,10858,10.20
+29,Are You My Mother ?,P.D. Eastman,4.7,2863,3.82
+30,Hop On Pop  (I Can Read It All By Myself),Dr. Seuss,4.8,1220,3.82
+31,Burn After Writing,Sharon Jones,4.7,2231,8.40
+32,American Dirt (Oprah'S Book Club): A Novel,Jeanine Cummins,4.5,3774,16.79
+33,The Vanishing Half: A Novel,Brit Bennett,4.5,83,16.20
+34,Your Baby'S First Word Will Be Dada,Jimmy Fallon,4.4,3508,5.00
+35,Human Body Activity Book For Kids: Hands-On Fun For Grades K-3,Ph.D.,4.7,1310,5.39
+36,Waiting Is Not Easy! (An Elephant And Piggie Book),Mo Willems,4.8,2364,5.24
+37,"Oh, The Thinks You Can Think!",Dr. Seuss,4.8,1075,4.19
+38,"Fast. Feast. Repeat.: The Comprehensive Guide To Delay, Don'T Deny® Intermittent Fasting--Including The 28-Day Fast Start",Gin Stephens,5.0,38,15.29
+39,I Love Dad With The Very Hungry Caterpillar (The World Of Eric Carle),Eric Carle,4.8,677,7.99
+40,Then She Was Gone: A Novel,Lisa Jewell,4.5,6088,8.79
+41,"Brown Bear, Brown Bear, What Do You See?",Bill Martin Jr.,4.9,7471,5.67
+42,Camino Winds,John Grisham,4.1,1332,17.37
+43,Percy Jackson And The Olympians 5 Book Paperback Boxed Set (New Covers W/Poster) (Percy Jackson & The Olympians),Rick Riordan,4.8,5161,21.00
+44,I'M Still Here: Black Dignity In A World Made For Whiteness,Austin Channing Brown,4.8,598,18.39
+45,"101 So Bad, They'Re Good Dad Jokes",Elias Hill,4.4,2356,5.99
+46,Blitz: Trump Will Smash The Left And Win,David Horowitz,4.1,23,21.06
+47,The Four Agreements: A Practical Guide To Personal Freedom (A Toltec Wisdom Book),Don Miguel Ruiz,4.6,11584,6.48
+48,Giraffes Can'T Dance,Giles Andreae,4.8,7583,5.00
+49,Born A Crime: Stories From A South African Childhood,Trevor Noah,4.8,12138,8.99
+50,"The Alchemist, 25Th Anniversary: A Fable About Following Your Dream",Paulo Coelho,4.6,25567,10.45

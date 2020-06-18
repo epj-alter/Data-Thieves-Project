@@ -12,9 +12,11 @@ Comparing Bestseller lists, by analyzing how the ranking system functions. GoodR
 
 # Project status
 
-Regina - crying
-Edgar - saving the day
-Cezar - on point
+- Regina - crying
+
+- Edgar - saving the day
+
+- Cezar - on point
 
 # Resources
 
