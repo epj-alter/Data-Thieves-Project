@@ -39,7 +39,9 @@ For fun, we tried to figure out how to make it a product, based on a real exampl
 # Project status
 
 Regina - crying
+
 Edgar - saveing the day
+
 Cezar - on point
 
 # Resources
